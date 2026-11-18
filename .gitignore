@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Capacitor / Android (projet généré, reproductible via `npx cap add android`)
+android/
+*.apk
+
+# OS / éditeur
+.DS_Store
+Thumbs.db
+*.log
+local.properties
+.devin/config.local.json
+
+# Doublons d'images (copies dans src/assets/vehicles/) et captures
+/moto.png
+/tricycle.png
+/Voiture eco.png
+/Confort.png
+/rehaussement.png
