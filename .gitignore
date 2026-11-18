@@ -8,6 +8,11 @@ dist/
 android/
 *.apk
 
+# TWA Bubblewrap (contient le keystore de signature — ne pas commiter)
+twa/
+twa-init.cjs
+*.keystore
+
 # OS / éditeur
 .DS_Store
 Thumbs.db
