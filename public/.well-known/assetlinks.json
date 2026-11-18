@@ -1,11 +1,13 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.naka.client",
       "sha256_cert_fingerprints": [
-        "87:87:F3:4E:C9:9D:2D:A1:B3:D1:42:07:6A:85:8D:7E:33:C2:1E:B0:2E:DE:B9:C8:C8:5A:FE:27:E1:4A:17:8B"
+        "33:6A:C3:92:D7:36:CB:F5:19:48:9D:3D:17:3E:49:78:EC:3D:E8:40:14:E3:98:4F:9D:56:1D:23:8B:C7:96:5A"
       ]
     }
   }
