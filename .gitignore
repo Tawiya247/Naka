@@ -20,6 +20,9 @@ Thumbs.db
 local.properties
 .devin/config.local.json
 
+# Notes de contexte locales (contiennent le mot de passe du keystore TWA)
+/CONTEXTE.md
+
 # Doublons d'images (copies dans src/assets/vehicles/) et captures
 /moto.png
 /tricycle.png
